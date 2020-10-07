@@ -1,0 +1,13 @@
+body { 
+	background-color: #ecffe5;
+}
+h1 {
+	color: #333333;
+	letter-spacing: 3px;
+	font-family: verdana;
+	font-size: 150%;
+	margin: 50px;
+}
+form {
+	margin: 50px;
+}
